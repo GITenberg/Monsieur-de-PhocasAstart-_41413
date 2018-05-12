@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41171'
     url: http://www.gutenberg.org/2009/agents/41171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41413#Monsieur-de-PhocasAstart-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2012-11-20'
 gutenberg_type: Text
